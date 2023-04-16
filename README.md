@@ -23,4 +23,10 @@ host all all all trust
 
 ```
 
+1. Ejecutar SEED
+
+```
+http://localhost:3000/api/seed
+```
+
 1. Ejecutar `yarn start:dev`
